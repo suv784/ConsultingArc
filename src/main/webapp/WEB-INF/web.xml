@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app xmlns="http://java.sun.com/xml/ns/javaee" version="2.5"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+	
+	<display-name>Archetype Created Web Application</display-name>
+	<servlet>
+		<servlet-name>AdminChangePassword</servlet-name>
+		<!-- <display-name>AdminChangePassword</display-name> <description></description> -->
+		<servlet-class>com.consulting_Arc.user.servlet.AdminChangePassword</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>AdminChangePassword</servlet-name>
+		<url-pattern>/AdminChangePassword</url-pattern>
+	</servlet-mapping>
+	<context-param>
+		<param-name>host</param-name>
+		<param-value>smtp.gmail.com</param-value>
+	</context-param>
+	<context-param>
+		<param-name>port</param-name>
+		<param-value>587</param-value>
+	</context-param>
+	<context-param>
+		<param-name>user</param-name>
+		<param-value>mohantysuvendu5@gmail.com</param-value>
+	</context-param>
+	<context-param>
+		<param-name>name</param-name>
+		<param-value>ConsultingArc</param-value>
+	</context-param>
+	<context-param>
+		<param-name>pass</param-name>
+		<param-value>fwjgnpzbfiiqlnxh</param-value>
+	</context-param>
+	<session-config>
+		<session-timeout>30</session-timeout>
+	</session-config>
+</web-app>
