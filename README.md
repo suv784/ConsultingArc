@@ -1,7 +1,7 @@
-ConultingArc is the WebApp build by using HTML5,CSS3,Bootstrap as the frontend technologies and java,JSP, Servlet as the backend technologies.
-I used JDBC to connect my java Application to Datbase(MySQL).
-For this project i used Ecliopse as IDE.
-FEATURES:
+ConultingArc is the WebApp build by using HTML5, CSS3, and Bootstrap as the frontend technologies and java,JSP, Servlet as the backend technologies.
+I used JDBC to connect my Java Application to Database (MySQL).
+For this project, i used Eclipse as IDE.
+
 ------------ 
 It consisit of 3 Modules that is Admin,Consultant,Client/user.
 Admin has the ability to add consultant,view Consultant,view client,view appointment through Admin Dashboard.
