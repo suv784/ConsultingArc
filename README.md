@@ -1,6 +1,5 @@
 # ConsultingArc
 
-https://github.com/suv784/ConsultingArc/assets/140892164/d9d416e8-768c-4e38-8ca7-8bf01ca035ff
 
 ![pic1](https://github.com/suv784/ConsultingArc/assets/140892164/902ab63a-d55a-40dd-8778-a33d32f67a95)
 ![pic2](https://github.com/suv784/ConsultingArc/assets/140892164/e70160f2-5ef7-4597-8ad3-fe9cccd1fbb5)
